@@ -1,0 +1,25 @@
+.textarea{
+    width: 100%;
+    padding-bottom: 96px;
+}
+.postcomplaintbutton{
+    width: 50%;
+    background:#00000000;
+    outline: 2px solid dodgerblue;
+    padding: 2px 4px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.postcomplaintbutton:hover{
+    width: 50%;
+    background: dodgerblue;
+    color: black;
+    outline: 2px solid dodgerblue;
+    padding: 2px 4px;
+    font-size: 16px;
+    border-radius: 10px;
+    transition: 1s ease;
+    cursor: pointer;
+}
